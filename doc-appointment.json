@@ -1,0 +1,23 @@
+[
+   {
+      "name": "Dr. John Doe",
+      "image": "https://cdn.gutensite.com/web001/site/7398/843689/843689-xl.png",
+      "org": "Kings London Hospital",
+      "availibility": {
+         "sun": "10:00 AM - 06:00 PM",
+         "wed": "06:00 PM - 09:00 PM"
+      },
+      "visitDurationInMin": 15
+   },
+   {
+      "name": "Dr. Mary Ellis",
+      "image": "https://pbs.twimg.com/profile_images/1090344552324583425/NjnP-xMP.jpg",
+      "org": "ABC Hospital",
+      "availibility": {
+         "sun": "10:00 AM - 06:00 PM",
+         "mon": "09:00 PM - 11:00 PM",
+         "thu": "11:00 AM - 02:00 PM"
+      },
+      "visitDurationInMin": 15
+   }
+]
